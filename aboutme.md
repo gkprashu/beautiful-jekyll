@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I am Krishna Prasanth Guttula
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I work as network engineer for [Colruyt Group](https://colruytindia.colruytgroup.com) and I spend most of my time writing code for network automation. Primarily focusing on the operational work. Responsibilities include managing a retail-chain infrastructure with over 3 DataCenters, 80+ Branch Offices, 10+ Warehouses and 1000+ stores spread across Belgium, France.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+During my university studies, I became particularly interested in the field of Network TeleCommunications, which i later took as a Career.
